@@ -61,4 +61,4 @@ Sekarang Anda telah berhasil menjalankan Kafka dengan Docker Compose! 🚀
 Jika ada pertanyaan atau error, silakan ajukan di **Issues** GitHub repository ini.
 
 ---
-**Penulis:** [Bintang Hari Kahono]
+**Penulis:** Bintang Hari Kahono

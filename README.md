@@ -4,6 +4,7 @@ Tutorial ini menjelaskan cara menjalankan Apache Kafka menggunakan Docker Compos
 
 ## 1. Prasyarat
 Sebelum memulai, pastikan Anda telah menginstal:
+
 ✅ **Docker Desktop** → [Download di sini](https://www.docker.com/products/docker-desktop/)
 
 ✅ **Docker Compose** (biasanya sudah termasuk dalam Docker Desktop)
